@@ -29,7 +29,7 @@ export const TransactionsTable = styled.table`
 `;
 
 interface PriceHightLight {
-  variant?: "income" | "outcome";
+  variant?: "income" | "outcome" | any;
 }
 
 export const PriceHightLight = styled.span<PriceHightLight>`

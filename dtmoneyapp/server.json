@@ -1,0 +1,20 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Almoço",
+      "type": "outcome",
+      "category": "Venda",
+      "price": 50,
+      "createdAt": "2023-10-14 00:00"
+    },
+    {
+      "description": "desenvolvimento de app",
+      "category": "renda",
+      "price": 300,
+      "type": "income",
+      "createdAt": "2023-10-25T01:53:07.414Z",
+      "id": 2
+    }
+  ]
+}
